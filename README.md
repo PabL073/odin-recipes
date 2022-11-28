@@ -1,2 +1,2 @@
 # odin-recipes
-testWebSkills
+This is a test repository for testing skills learned on ODIN Project
